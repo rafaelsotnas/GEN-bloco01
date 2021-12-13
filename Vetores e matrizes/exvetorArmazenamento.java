@@ -19,7 +19,7 @@ public class exvetorArmazenamento {
 			v[x] = ler.nextInt();
 		}
 		for(x=0;x<6;x++) {
-		   v[4]+=100;
+		   v[3]+=100;
            System.out.println("\nDo primeiro vetor ao sexto, os valores são: "+v[x]);
 		}
 	}
