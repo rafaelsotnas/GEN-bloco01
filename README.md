@@ -1,4 +1,4 @@
 # GEN-bloco01
-Exercícios do bootcamp Generation.
+Exercícios concluídos no bootcamp@GEN.
 
 Primeiros contatos com Java, a partir do Eclipse, desenvolvidos no bootcamp@GENERATION.
